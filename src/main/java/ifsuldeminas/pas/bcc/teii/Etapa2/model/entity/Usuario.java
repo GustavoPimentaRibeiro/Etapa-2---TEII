@@ -1,4 +1,4 @@
-package ifsuldeminas.pas.bcc.teii.Etapa2.model.entity.leilao;
+package ifsuldeminas.pas.bcc.teii.Etapa2.model.entity;
 
 import java.util.Set;
 
